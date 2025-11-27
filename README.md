@@ -2,6 +2,7 @@
 
 A simple and beautiful Weather App that lets you check real-time weather conditions for any city in the world. Built with a clean UI and fast performance.
 
+
 ✨ Features
 
 🔍 Search by city name
@@ -14,22 +15,21 @@ A simple and beautiful Weather App that lets you check real-time weather conditi
 
 📍 Location-based weather (optional)
 
+
 🛠️ Tech Stack
-
 Frontend: HTML, CSS, JavaScript
-
 API: OpenWeatherMap API
 
-📸 Preview
 
+📸 Preview
 ![App Screenshot](./screenshot.png)
 
- Run the app
-
+ 
+ Run the app
 Simply open index.html in your browser.
 
-📂 Project Structure
 
+📂 Project Structure
 weather-app/
 ├── index.html
 ├── style.css
@@ -37,9 +37,10 @@ weather-app/
 ├── assets/
 └── README.md
 
-🧩 API Used
 
+🧩 API Used
 🌐 OpenWeatherMap — https://openweathermap.org/
+
 
 🗺️ Future Improvements
 
