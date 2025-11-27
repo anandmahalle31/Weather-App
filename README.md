@@ -18,7 +18,11 @@ A simple and beautiful Weather App that lets you check real-time weather conditi
 
 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript
+
+
 API: OpenWeatherMap API
+
+
 
 
 📸 Preview
